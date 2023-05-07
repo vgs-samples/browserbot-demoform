@@ -17,7 +17,7 @@
     "request": "^2.88.0"
   },
   "devDependencies": {
-    "concurrently": "^4.1.2"
+    "concurrently": "^8.0.1"
   },
   "engines": {
     "node": "10.15.3",
